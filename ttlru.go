@@ -9,7 +9,7 @@
 //
 // Which in turn is based on the LRU implementation in groupcache:
 // github.com/golang/groupcache/lru
-package ttlru // import "zvelo.io/ttlru"
+package ttlru
 
 import (
 	"container/heap"
